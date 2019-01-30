@@ -1,0 +1,14 @@
+{
+  "main.css": "./css-matrix-tool/static/css/main.6e4aca72.chunk.css",
+  "main.js": "./css-matrix-tool/static/js/main.b9403752.chunk.js",
+  "main.js.map": "./css-matrix-tool/static/js/main.b9403752.chunk.js.map",
+  "static/js/1.5fb161e1.chunk.js": "./css-matrix-tool/static/js/1.5fb161e1.chunk.js",
+  "static/js/1.5fb161e1.chunk.js.map": "./css-matrix-tool/static/js/1.5fb161e1.chunk.js.map",
+  "runtime~main.js": "./css-matrix-tool/static/js/runtime~main.cafa6944.js",
+  "runtime~main.js.map": "./css-matrix-tool/static/js/runtime~main.cafa6944.js.map",
+  "static/media/lena.jpg": "./css-matrix-tool/static/media/lena.99c3551c.jpg",
+  "static/css/main.6e4aca72.chunk.css.map": "./css-matrix-tool/static/css/main.6e4aca72.chunk.css.map",
+  "index.html": "./css-matrix-tool/index.html",
+  "precache-manifest.0a59cf9f6dc86e85c896d6fb0d48c385.js": "./css-matrix-tool/precache-manifest.0a59cf9f6dc86e85c896d6fb0d48c385.js",
+  "service-worker.js": "./css-matrix-tool/service-worker.js"
+}
