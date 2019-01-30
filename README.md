@@ -4,6 +4,6 @@
 
 右边会显示出，基向量变化，对空间中图片的作用效果。同时左边会显示矩阵元素。矩阵元素列表分别对应
 ```
-transform: (a, b, c, d, e, f);
+transform: matrix(a, b, c, d, e, f);
 ```
 中的 a b c d e f
